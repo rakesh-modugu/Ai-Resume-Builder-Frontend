@@ -9,11 +9,11 @@ const Hero = () => {
     const [menuOpen, setMenuOpen] = React.useState(false);
 
     const logos = [
-        'https://logo.clearbit.com/instagram.com',
-        'https://logo.clearbit.com/framer.com',
-        'https://logo.clearbit.com/microsoft.com',
-        'https://logo.clearbit.com/huawei.com',
-        'https://logo.clearbit.com/walmart.com',
+        'https://cdn.simpleicons.org/instagram/gray',
+        'https://cdn.simpleicons.org/framer/gray',
+        'https://cdn.simpleicons.org/microsoft/gray',
+        'https://cdn.simpleicons.org/huawei/gray',
+        'https://cdn.simpleicons.org/walmart/gray',
     ]
 
   return (
